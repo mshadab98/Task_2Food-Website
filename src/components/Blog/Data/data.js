@@ -2,7 +2,7 @@
 export const blogData = [
     {
       id: 1,
-      title: "The Secret Spices of Dawat E Zaika",
+      title: "The Secret Spices of FOODZIE",
       description:
         "Discover the unique blend of handpicked spices that bring out the true flavors of our dishes.",
       image: "/images/blogs-1.jpg", 

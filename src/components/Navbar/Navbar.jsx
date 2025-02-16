@@ -11,7 +11,7 @@ const Navbar = () => {
       {/* Navbar */}
       <nav className="bg-[#D32F2F] p-5 shadow-md fixed w-full top-0 z-50">
         <div className="container mx-auto flex items-center justify-between">
-          <div className="text-white text-2xl pl-2 md:pl-25 font-bold">Dawat-E-Zaika</div>
+          <div className="text-white text-2xl pl-2 md:pl-25 font-bold">FOODZIE</div>
 
           {/* Desktop Menu */}
           <ul className="hidden md:flex space-x-10 pr-28 [&>*]:text-white">
@@ -66,7 +66,7 @@ const Navbar = () => {
         <h1 className="text-xl md:text-4xl p-2 text-center font-bold  
   text-transparent bg-clip-text bg-gradient-to-r from-red-600 to-orange-500 
   drop-shadow-lg tracking-wide animate-fadeIn">
-  Welcome to Dawat-E-Zaika
+  Welcome to FOODZIE.....
 </h1>
 
          

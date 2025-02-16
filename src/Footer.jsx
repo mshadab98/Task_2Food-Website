@@ -7,7 +7,7 @@ const Footer = () => {
         
       
         <h2 className="text-lg font-semibold mb-4 md:mb-0">
-          Dawat E Zaika 🍽️
+          FOODZIE 🍽️
         </h2>
 
         
@@ -28,7 +28,7 @@ const Footer = () => {
 
         
         <p className="text-sm mt-4 md:mt-0">
-          © {new Date().getFullYear()} Dawat E Zaika. All Rights Reserved.
+          © {new Date().getFullYear()} FOODZIE. All Rights Reserved.
         </p>
       </div>
     </footer>

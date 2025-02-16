@@ -36,13 +36,15 @@ const BannerSlider = ({ images }) => {
             <div className="absolute inset-0 opacity-55 flex flex-col rounded-3xl justify-center items-center text-center bg-black  p-4">
 
               <h1 className="font-bold text-white text-4xl md:text-5xl lg:text-6xl mb-[5rem]">
-                Zaika jo apno ka rishta jode
+               Swift Delivery,Trusted Service <br />
+               <b>Experience</b> the Best !
               </h1>
               <p className="text-white text-lg md:text-xl lg:text-2xl max-w-2xl">
-                Discover flavors that bring hearts closer. At Dawat-e-Zaika, we serve dishes crafted to connect and celebrate cherished bonds.
+                Craving something yummy? <br />
+                <b>Enter your location to final local delights!!</b>
               </p>
               <button className="bg-white text-[#747474] font-bold py-2 px-6 rounded-full hover:bg-opacity-90 transition duration-300">
-                View Menu
+                Find Food
               </button>
             </div>
           </div>
